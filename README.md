@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yanchuga
+- 👋 Hi, I’m @yanchuga aka Yan from UA
 - 👀 I’m interested in e-commerce projects on Laravel Framework
 - 🌱 I’m currently learning Laravel, VUE JS 
 - 💞️ I’m looking to collaborate on web-studios and startUPs like a backend or fullstack developer
