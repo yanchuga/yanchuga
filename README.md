@@ -2,7 +2,7 @@
 - 👀 I’m interested in e-commerce projects on Django Framework
 - 🌱 I’m currently learning Django, VUE JS, React JS 
 - 💞️ I’m looking to collaborate on web-studios and startUPs like a backend or fullstack developer
-- 📫 How to reach me: https://www.linkedin.com/in/yanchuga/
+- 📫 How to reach me: https://learnwithyan.com
 
 <!---
 yanchuga/yanchuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
